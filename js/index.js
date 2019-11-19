@@ -25,7 +25,7 @@ function answerShow(answer){
         $("#chatBox").append('<div class="chat-teacher f-flex-box animated fadeInUp">'+
         '<div class="teacher-avatar"><img src="img/teacher.jpg"></div>'+
         '<div class="teacher-msg flex1">'+
-        '<div class="teacher-info "><span class="teacher-info-name">Amy导师 挽爱无忧情感专家</span></div>'+
+        '<div class="teacher-info "><span class="teacher-info-name">Amy导师 情感专家</span></div>'+
         '<div class="teacher-msg-item teacher-msg-select">'+
         '<p>'+ arr1[index0] +'</p>'+
         '<div class="msg-select-options f-flex-box wrap justify-between">'+
@@ -57,7 +57,7 @@ $(function(){
         $("#chatBox").append('<div class="chat-teacher f-flex-box animated fadeInUp">'+
         '<div class="teacher-avatar"><img src="img/teacher.jpg"></div>'+
         '<div class="teacher-msg flex1">'+
-        '<div class="teacher-info"><span class="teacher-info-name">Amy老师 挽爱无忧情感专家</span></div>'+
+        '<div class="teacher-info"><span class="teacher-info-name">Amy老师 情感专家</span></div>'+
         '<div class="teacher-msg-item teacher-msg-select teacher-msg-text">'+
         '<p>'+ arr1[0] +'</p>'+
         '<div class="msg-select-options f-flex-box wrap justify-between">'+
